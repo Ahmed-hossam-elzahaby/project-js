@@ -1,0 +1,29 @@
+.member
+{
+color: #AAA;
+}
+p
+{
+font-weight: bold;
+color:#333;;
+
+}
+.container
+{
+background-color: rgba(139, 138, 138, 0.096);
+
+
+}
+.lopy
+{
+background-color: rgba(201, 196, 196, 0.212);
+
+
+}
+#win{
+
+display: none;
+
+}
+
+
